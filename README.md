@@ -22,8 +22,4 @@ This contract will automatically manage 1000 shares, with an annual distribution
 
 ### Kovan Contract Address - 0xc46F409e3ea405F70c45799FE3B41d75AAd0f6E3
 
-<!-- <video width="600" height="600" controls>
-  <source src="recordings/DeferredEquityPlan.mp4" type="video/mp4">
-</video> -->
-
-![](recordings/DeferredEquityPlan.mp4)
+Please refer to "DeferredEquityPlan.mp4" recording inside "recordings" directory. The video size is too large for this file.
